@@ -1,0 +1,8 @@
+{
+  "name": "wagerbot-server",
+  "version": "1.0.0",
+  "description": "Wagerbot server side api",
+  "main": "main.ts",
+  "author": "Nehemiah Washington",
+  "license": "MIT"
+}
